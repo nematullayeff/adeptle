@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+
+    body{
+      @apply text-brand-black;
+    }  
+    h1,h2,h3, h4{
+      @apply font-Montserrat font-bold;
+    }
+    p{
+      @apply font-RedHatDisplay;
+    }
+}
