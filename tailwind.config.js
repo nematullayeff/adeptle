@@ -9,6 +9,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern': "url('../img/header-beground.png')",
+        'main-project': "url('../img/projects.png')",
       },
       maxWidth:{
         base: "1380px"
@@ -17,10 +18,9 @@ module.exports = {
         brand:{
           black:'#171921',
           pink: "#FECACA",
+          blue: '#2E294E',
         }
-
-        
-      }
+      },
     },
   },
   plugins: [],
